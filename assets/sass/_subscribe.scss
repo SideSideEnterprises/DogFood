@@ -12,18 +12,6 @@ padding-bottom: 100px;
     }
 	& .subscribe-wrapper{
 		padding-top: 310px;
-		 background: url(../images/subscrib-bg/bkg_newsletter.jpg) no-repeat top center;
-		 @media #{$tablet-device}{
-		 	background-size:contain;
-		 	padding-top: 20.2127659574vw;
-		 }
-		 @media #{$large-mobile}{
-		 	background-size:contain;
-		 	padding-top: 20.2127659574vw;
-		 }
-		 @media #{$small-mobile}{
-		 	padding-top: 19.2127659574vw;
-		 }
 		& .subscribe-inner{
 			background: url(../images/subscrib-bg/bkg_newsletter1.jpg) no-repeat center;
 			background-size: cover;
